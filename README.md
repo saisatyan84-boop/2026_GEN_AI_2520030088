@@ -17,8 +17,6 @@ This project proposes a monitoring system that continuously evaluates LLM respon
 
 The prototype will be built in Python using the Gemini or Groq API, a FastAPI or Flask backend, SQLite for storing results, and Streamlit with Plotly for visualization. The aim of the project is to improve the reliability, consistency, and trustworthiness of AI-powered applications through automated quality monitoring and early regression detection.
 
-**Keywords:** Large Language Models, Silent Regression, Quality Monitoring, LLM-as-a-Judge, Baseline Comparison, Statistical Degradation Detection
-
 ---
 
 ## Problem Statement
